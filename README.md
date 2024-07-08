@@ -11,9 +11,10 @@ This repository contains a Python sample script that demonstrates how to interac
 
 1. **Clone this repository:** `git clone https://github.com/r-k-16/Gemini-sample.git`
 2. **Install required dependencies:**
-   > Required python3.9=<  Tested in Ubuntu with Python 3.9
-   > `python3.9 -m pip install -U -r requirements.txt`
-   > `apt install python3-tk`
+   Required python3.9=<  Tested in Ubuntu with Python 3.9
+   Python Packages install
+   > python3.9 -m pip install -U -r requirements.txt
+   > apt install python3-tk
 4. **Modify the script according to your specific requirements.**
 5. **Run the script:** `python3.9 gemini-model.py`
 
