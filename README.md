@@ -16,7 +16,7 @@ This repository contains a Python sample script that demonstrates how to interac
    > python3.9 -m pip install -U -r requirements.txt
    
    > apt install python3-tk
-4. **Add the Gemini API that you generated from [Gemini API website](https://ai.google.dev/gemini-api/docs/api-key).**
+4. **Add the Gemini API key in geminiAPI.py file that you generated from [Gemini API website](https://ai.google.dev/gemini-api/docs/api-key).**
 5. **Run the script:** `python3.9 gemini-model.py`
 
 **For detailed information on the Gemini AI API, please refer to [the official documentation](https://ai.google.dev/gemini-api/docs).**
