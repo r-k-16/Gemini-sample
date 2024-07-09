@@ -1,7 +1,6 @@
 from geminiAPI import gemini_apikey
 import google.generativeai as genai
-import PIL.Image
-import os
+import PIL.Image, os, readline
 import tkinter as tk
 from tkinter import filedialog
 
